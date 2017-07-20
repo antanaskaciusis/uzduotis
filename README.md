@@ -1,0 +1,2 @@
+# uzduotis
+komisinių skaiciuokle
